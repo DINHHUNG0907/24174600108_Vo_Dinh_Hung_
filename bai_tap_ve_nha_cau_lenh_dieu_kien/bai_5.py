@@ -12,3 +12,8 @@ if len(char) == 1 and char.isalpha():
         print(f"Ký tự '{char}' là phụ âm.")
 else:
     print("Vui lòng nhập một ký tự hợp lệ.")
+
+
+
+
+    
