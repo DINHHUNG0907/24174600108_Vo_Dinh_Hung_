@@ -7,5 +7,6 @@ else:
     log4_x = math.log(x, 4) 
     logx_2 = math.log(2, x) 
     tong = log4_x + logx_2
-
+ 
     print(f"Kết quả: {tong:.2f}")
+tong ke # type: ignore tim khac    

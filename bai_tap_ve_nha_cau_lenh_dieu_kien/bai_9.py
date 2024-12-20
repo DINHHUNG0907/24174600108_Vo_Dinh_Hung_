@@ -21,3 +21,4 @@ elif loai_xe == 7:
 
 cuoc += max(0, tg_cho - 5) * 800
 print(f"Cước taxi: {cuoc} đồng")
+ 
